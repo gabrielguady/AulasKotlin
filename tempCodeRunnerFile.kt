@@ -1,0 +1,1 @@
+atacar(jogador1, jogador2)
